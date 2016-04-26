@@ -1,10 +1,8 @@
 class RakeCompletion < Formula
   desc "Bash completion for Rake"
-  homepage "https://gist.github.com/turadg/840663"
-  url "https://gist.githubusercontent.com/turadg/840663/raw/e58c029d656f0705b2a77632d2c3e02ff0a5e825/rake.sh"
-  version "1"
-  sha256 "262bf355a0b1f3bf134b34baeecbf6857b326218dee5ab09d0aa22302bbd271a"
-
+  homepage "https://github.com/MasterRoot24/rake-completion"
+  url "https://github.com/MasterRoot24/rake-completion/archive/v1.0.0.tar.gz"
+  sha256 "2d619d0d1d8052994011209c62f926b9e41d45e9268da4b9858fa45911b04cd1"
   bottle :unneeded
 
   def install
