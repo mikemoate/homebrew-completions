@@ -2,8 +2,8 @@ class MavenCompletion < Formula
   desc "Bash completion for Maven"
   homepage "https://github.com/juven/maven-bash-completion"
   url "https://github.com/juven/maven-bash-completion.git",
-    :revision => "e27e290a8aa3e09eff08792df27f0e1fe230fbd6"
-  version "20160114"
+    :revision => "106b6ca03badc9474cf7b6b1b7039ad950a17f89"
+  version "20160501"
 
   head "https://github.com/juven/maven-bash-completion.git"
 
