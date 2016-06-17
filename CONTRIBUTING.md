@@ -2,7 +2,7 @@
 This tap inherits the [Homebrew contributions guidelines][homebrew-contrib] so
 please read them first.
 
-[homebrew-contrib]: https://github.com/Homebrew/homebrew/blob/master/CONTRIBUTING.md#contributing
+[homebrew-contrib]: https://github.com/Homebrew/homebrew-core/blob/master/.github/CONTRIBUTING.md#contributing-to-homebrew
 
 ## Adding a formula
 See the [Formula Cookbook][cookbook]. Reading existing formulae might help; see
